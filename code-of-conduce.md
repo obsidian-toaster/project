@@ -24,7 +24,11 @@ code changed using a Pull Request and finally adding the change to a milestone a
 * Announce
 
 The Obsidian engineers Mailing List should be used to communicate the agenda, minutes of the bi-weekly meeting, to publish general announces or changes but never to start a discussion
-. This channel could also be used to prepare the sprint or communicate the project milestones
+. This channel could also be used to prepare the sprint or communicate the project milestones. 
+
+When an email about a meeting is published on the Obsidian Mailing List and that you want to participate or to invite somebody, please use this procedure :
+@AI: I would like to ask you to nominate yourself for the call and forward this email to anyone you know should be aware. We will invite them and add them to the obsidian-pm-list as well.
+
 
 
 
