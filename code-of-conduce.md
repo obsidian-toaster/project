@@ -14,7 +14,9 @@ If, by example, you would like to ask a question about the "Generator", then you
 When a point, which have been started as a question, will require that:
 
 - Multiple participants are involved to provide their advise in order to answer to the question or
-- Somebody investigates and makes some research, then it makes more sense in this case to open a ticket on the github project : https://github.com/obsidian-toaster/platform
+- Somebody investigates and makes some research
+
+then it makes more sense in this case to open a ticket on the github project : https://github.com/obsidian-toaster/platform
 
 As the discussion could become an idea, a new user story or a task to be implemented, acting as such will allow to keep track of the request, assign it to a resource, manage the 
 code changed using a Pull Request and finally adding the change to a milestone and sprint.
