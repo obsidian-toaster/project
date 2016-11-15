@@ -2,8 +2,24 @@
 
 ## Communication
 
-* Question/Discussion
+This section will detail how to proceed to communicate between the members of the project concerning the topics which are highlighted hereafter:
 
-How to proceed 
-For simple questions or discussions, I propose that we use telegram or the slack channel (https://microservicesplatform.slack.com/). For points which requires that we comment, add it maybe to a sprint/milestone, I prefer that we open a github issue : https://github.com/obsidian-toaster/platform
+* Question/Ping
+
+For simple process where you would like to contact a project's member, question it, please use the slack IRC team (https://microservicesplatform.slack.com/) and its corresponding channel.
+If, by example, you would like to ask a question about the "Generator", then you can use the #generator channel.
+
+* Discussion
+
+When a point which have been started as a question and finally becomes a question where potentially multiple participants will be involved to provide
+their advise, answer to the question, it makes more sense in this case to open a ticket on the github project : https://github.com/obsidian-toaster/platform
+As the discussion could become an idea, a new user story or a task to be implemented, acting as such will allow to keep track of the request
+
+* Announce
+
+The Obsidian engineers Mailing List should be used to communicate the agenda, minutes of the bi-weekly meeting, to publish general announces or changes but never to start a discussion
+. This channel could also be used to prepare the sprint or communicate the project milestones
+
+
+
 
