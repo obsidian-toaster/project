@@ -1,1 +1,3 @@
 # Project
+
+This repo contains general informations about the Obsidian Toaster project, how it is managed, ....
