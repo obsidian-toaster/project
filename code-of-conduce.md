@@ -29,7 +29,16 @@ The Obsidian Engineers/PM Mailing List should be used to communicate the agenda,
 When an email about a meeting is published on the Obsidian Mailing List and that you want to participate or to invite somebody, please use this procedure :
 @AI: I would like to ask you to nominate yourself for the call and forward this email to anyone you know should be aware. We will invite them and add them to the obsidian-pm-list as well.
 
+### JIRA
 
+Utility info about the JIRA Obsidian Toaster project
+
+ID: OBST
+Name: Obsidian Toaster
+Lead: Jiri Pallich / jpallich@redhat.com
+Admin: Charles Moulliard / cmoullia@redhat.com , Jay Balunas / jbalunas@redhat.com , Rodney Russ / rruss@redhat.com , Bruno Georges / bgeorges@redhat.com , Jiri Pallich / jpallich@redhat.com
+
+Starting schema: JBEAP without CDW (all issue types, agile enabled)
 
 
 
