@@ -42,10 +42,12 @@ Starting schema: JBEAP without CDW (all issue types, agile enabled)
 
 ### Trello
 
-https://trello.com/b/22FjgidH/how-we-use-trello
-https://trello.com/c/FmXGaXIj/56-getting-started-how-we-use-trello
+You can find more info about how to use Trello as presented by OpenShift Team
 
-Trello boards will be used to manage the tasks related to a project. The generator by example which corresponds to a deliverable of obsidian can be assimilated to a project like vert.x, swarm, EAP, etc.
+- https://trello.com/b/22FjgidH/how-we-use-trello
+- https://trello.com/c/FmXGaXIj/56-getting-started-how-we-use-trello
+
+The Trello boards will be used to manage the tasks related to a project. The "generator by example" which corresponds to a deliverable of obsidian can be assimilated to a project like vert.x, swarm, EAP, etc.
 The board which is a kanban view will help us to figure out what should be tracked, included into a sprint or not, discussed, reviewed.... It could be possible that some tasks will not been linked to a JIRA or Github issue 
 as they correspond to a request to create a document, contact a group, team, configure a machine, ... or could be used to translate a user story to ERD response which contains sometimes link(s) to jira/bugzilla/...
 (example : https://trello.com/b/wqe9UaaZ/developer-experience)
