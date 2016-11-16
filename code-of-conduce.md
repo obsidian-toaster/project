@@ -9,7 +9,7 @@ This section will detail how to proceed to communicate between the members of th
 For simple process where you would like to contact a project's member, question it, please use the slack IRC team (https://microservicesplatform.slack.com/) and its corresponding channel.
 If, by example, you would like to ask a question about the "Generator", then you can use the #generator channel.
 
-* Discussion
+### Discussion
 
 When a point, which have been started as a question, will require that:
 
@@ -21,7 +21,7 @@ then it makes more sense in this case to open a ticket on the github project : h
 As the discussion could become an idea, a new user story or a task to be implemented, acting as such will allow to keep track of the request, assign it to a resource, manage the 
 code changed using a Pull Request and finally adding the change to a milestone and sprint.
 
-* Announce
+### Announce
 
 The Obsidian engineers Mailing List should be used to communicate the agenda, minutes of the bi-weekly meeting, to publish general announces or changes but never to start a discussion
 . This channel could also be used to prepare the sprint or communicate the project milestones. 
