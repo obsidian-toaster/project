@@ -4,7 +4,7 @@
 
 This section will detail how to proceed to communicate between the members of the project concerning the topics which are highlighted hereafter:
 
-* Question/Ping
+### Question/Ping
 
 For simple process where you would like to contact a project's member, question it, please use the slack IRC team (https://microservicesplatform.slack.com/) and its corresponding channel.
 If, by example, you would like to ask a question about the "Generator", then you can use the #generator channel.
