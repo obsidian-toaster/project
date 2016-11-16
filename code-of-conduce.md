@@ -52,6 +52,51 @@ as they correspond to a request to create a document, contact a group, team, con
  
 ### Meeting minutes
 
+The template to be used to generate the minutes of a meeting is available hereafter. an example about such minutes is posted here : https://docs.google.com/document/d/1SJJod6qi5i1_w50BwR98H6RIN2X_qK81wf0_ts63wfg
+
+```
+Minutes - [dd MM YYYY]
+
+Participants : [firstname lastname, firstname lastname, firstname lastname, ...]
+________________________________________________________________________________
+
+A) Points (to be) discussed
+
+* Point A
+** Sub point A
+** Sub point B
+** Sub point C
+... 
+** Point B 
+
+Remarks :
+- As you can see the title includes text between parenthesis. That represents the fact that it this minutes doc can be used during the meeting and
+  when the minutes are send, you can skip this part.
+- A point & sub-point must include the acronym of the user reporting it (e.g. Setup the working group - CHM) using the following
+  convention (first 2 letters of the firstname followed by the first letter of the surname.
+- If a ticket (jira/github) or Trello Card exist, then they should be mentioned.
+- A collection of Trello cards grouped can be used instead of the points to be discussed
+____________________________________________________________________________________________
+
+Decisions
+
+* Item 1
+* Item 2
+* Item 3
+
+Remark :
+- An item could or should be converted into a Trello card, added to a board within the New list
+________________________________________________________________________________________________
+
+Next Steps
+
+@User: TBD
+@All: TBD
+
+Remark :
+- The "Next Steps" section includes the future tasks to be done, most probably to be covered into another meeting
+- Like the "decisions", they can be defined as Trello cards where the user assigned is mentioned  
+```
 
  
  
