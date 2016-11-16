@@ -52,7 +52,7 @@ as they correspond to a request to create a document, contact a group, team, con
  
 ### Meeting minutes
 
-The template to be used to generate the minutes of a meeting is available hereafter. an example about such minutes is posted here : https://docs.google.com/document/d/1SJJod6qi5i1_w50BwR98H6RIN2X_qK81wf0_ts63wfg
+The template to be used to generate the minutes of a meeting is available hereafter. An example about such minutes is posted here : https://docs.google.com/document/d/1SJJod6qi5i1_w50BwR98H6RIN2X_qK81wf0_ts63wfg
 
 ```
 Minutes - [dd MM YYYY]
@@ -70,8 +70,8 @@ A) Points (to be) discussed
 ** Point B 
 
 Remarks :
-- As you can see the title includes text between parenthesis. That represents the fact that it this minutes doc can be used during the meeting and
-  when the minutes are send, you can skip this part.
+- As you can see the title includes text between parenthesis. That indicates the fact that this minutes doc can also be used during the meeting and
+  when the minutes are will be prepared for publication, then you can skip this part between parenthesis.
 - A point & sub-point must include the acronym of the user reporting it (e.g. Setup the working group - CHM) using the following
   convention (first 2 letters of the firstname followed by the first letter of the surname.
 - If a ticket (jira/github) or Trello Card exist, then they should be mentioned.
