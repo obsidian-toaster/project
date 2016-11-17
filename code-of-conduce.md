@@ -42,7 +42,9 @@ Admin: Charles Moulliard / cmoullia@redhat.com , Jay Balunas / jbalunas@redhat.c
 Starting schema: JBEAP without CDW (all issue types, agile enabled)
 ```
 
-### Trello usage
+### Trello
+
+#### Info 
 
 You can find more info about how to use Trello as presented by OpenShift Team
 
@@ -54,12 +56,13 @@ The board which is a kanban view will help us to figure out what should be track
 as they correspond to a request to create a document, contact a group, team, configure a machine, ... or could be used to translate a user story to ERD response which contains sometimes link(s) to jira/bugzilla/...
 (example : https://trello.com/b/wqe9UaaZ/developer-experience)
 
-### Trello card
+#### How to create a card
 
-A trello card can be created from GMail at the condition that you have installed the Chrome extension ("https://chrome.google.com/webstore/detail/gmail-to-trello/oceoildfbiaeclndnjknjpfaoofeekgl"). When you will create from an email a card, you can select the board and the list where the card should be created
+A trello card can be created from GMail at the condition that you have installed the Chrome extension ("https://chrome.google.com/webstore/detail/gmail-to-trello/oceoildfbiaeclndnjknjpfaoofeekgl").
+When you will create from an email a card, you can select the board and the list where the card should be created.
  
-When a Trello card is crated, please add it to the list "New" in order to review it with the members part of the board. When they will run their weekly call, the "new" listed cards will be reviewed, accepted or refused
-and assigned to resources including also the definition of a due date. 
+When a Trello card is created, please add it to the list "New" in order to allow the members part of the board to review it.
+When they will run their weekly call, the "new" listed cards will be reviewed, accepted or refused and assigned to member(s) including also the definition of a due date. 
 The dates defined for the cards will allow us using the power-ups "calendar" app to define sprints like also to review the tasks assigned during the weekly call.
  
 ### Meeting minutes
