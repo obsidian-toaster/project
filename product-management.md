@@ -22,9 +22,7 @@ To access Slack using an IRC client, this is possible and supported for the IRC 
 
 ### Scrum/Sprint
 
-
-
-
+THIS IS A TEST
 
 cmoulliard	[10:13 AM]  
 The biggest issue/challenge concerns how to manage the comments/remarks. The way that it has been addressed by John for the PRD was a mess. I have warned John that we can't manage correctly all the comments/remarks correctly using google doc when we have too many members
