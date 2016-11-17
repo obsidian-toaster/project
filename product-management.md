@@ -3,15 +3,14 @@
 ## Introduction
 
 This document describes and details how we will manage the development lifecycle about a Product using the Trello and Jira Tools.
-Basically, a product which is defined as a collection of user stories will be decomposed into a list of use cases and link them
-to one or many ERD
+Basically, a product, which is defined as a collection of user stories, will be decomposed into a list of use cases that we will link
+to one or many ERD describing how we will implement the solution.
 
 ## Tools
 
-* Trello : 
-* JIRA : 
-* Slack :
-
+* Trello : Coordination and Planification Tool
+* JIRA : Tickets & Scrum Management Tool
+* Slack : IRC channels, notifications platform
 
 ## Processes
 
