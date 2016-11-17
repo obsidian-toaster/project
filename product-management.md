@@ -8,9 +8,11 @@ to one or many ERD describing how we will implement the solution.
 
 ## Tools
 
-* Trello : Coordination and Planification Tool
+* [Trello](https://trello.com/b/DI2J0MHN/obsidian) : Coordination and Planification Tool
 * JIRA : Tickets & Scrum Management Tool
-* Slack : IRC channels, notifications platform
+* [Slack](https://microservicesplatform.slack.com/messages) : IRC channels, notifications platform
+
+To access Slack using an IRC client, this is possible and supported for the IRC + SSL protocol. You can get your user/password at this address : https://microservicesplatform.slack.com/account/gateways
 
 ## Processes
 
@@ -23,35 +25,6 @@ to one or many ERD describing how we will implement the solution.
 
 
 
-hbraun	[9:55 AM]  
-good. i’ll have an eye on trello and slack
-
-[9:55]  
-i think the current issues relevant to me are PRD and ERD
-
-[9:55]  
-do you have an idea how to address the ERD?
-
-[9:56]  
-i.e. how to include all stakeholders responses?
-
-[9:57]  
-in fact i see that the way you’ve setup slack it exactly what I was proposing with flowdock
-
-[9:57]  
-i.e. channels for work areas
-
-[9:57]  
-tools integration
-
-[9:57]  
-and a general preference of using this over email
-
-[9:57]  
-very good
-
-cmoulliard	[10:04 AM]  
-I will send an email + link to a Trello card about relation between PRD & ERD and how we could deal with to get the opinions of the engineers
 
 cmoulliard	[10:13 AM]  
 The biggest issue/challenge concerns how to manage the comments/remarks. The way that it has been addressed by John for the PRD was a mess. I have warned John that we can't manage correctly all the comments/remarks correctly using google doc when we have too many members
