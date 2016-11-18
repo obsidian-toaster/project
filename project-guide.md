@@ -219,7 +219,7 @@ When a user story is added to the list "Review", then the engineers can start th
 with the engineers responsible about the technology to be developed. As with the "New" list, it is still possible during the reviewing step to question/comment the user story and ask additional information from the Product Manager.
 Finally, they will decide if the user story is accepted or refused. In both cases, it is important to motivate the decision and to inform the Product Manager.
 
-Optionally, the task/Card could be moved 
+Optionally, the task/Card could be moved to the Board Working Group as it will be discussed hereafter.
  
 **Accepted**
 
@@ -227,18 +227,19 @@ The accepted user story will move to this list where the user will tag the user 
 
 **Refused**
 
-The Product Manager will review the refused user story and could, based on the decision taken by the engineers, make a new proposition by moving again the card to the "New list". In this case, the card must be tagged with the info (maybe using a custom field)
+The Product Manager will review the refused user story and could, based on the decision taken by the engineers, make a new proposition by moving the card to the "New list". In this case, the card must be tagged with the info (maybe using a custom field)
 "refused" to inform the members.
 
 **Optional - Working Group**
 
 When a user story will request to be discussed by a working group / task force, then the card will be moved to the board "Obsidian Working Group" under the list "New". This step will be sometimes required when the user story 
-is related to a feature which is transversal (e.g. : Support the streaming of a database, hot deployment of ConfigMap, ...) and will require the assistance of persons working for different units (Middleware, OpenShift, ...). 
-At the end of the "research" work, the task will come back to the original board with a proposition and maybe solution to implement the user story. 
+is related to a feature which is transverse (e.g. : Support the streaming of a database, hot deployment of ConfigMap, ...) and will require the assistance of persons working for different units (Middleware, OpenShift, ...). 
+At the end of the "research" work, the task will come back to the original board with a proposition and maybe a solution to implement the user story. 
 
 **Release x.y.z**
 
-When the user story has been accepted, then it can move to the "Release x.y.z" list which corresponds according to the roadmap to the version where we target to deliver the user story. the release number is represented by the convention x.y.z. With such information, the ERD work could take place.
+When the user story has been accepted, then it can move to the "Release x.y.z" list which corresponds according to the roadmap to the version where we target to deliver the user story. The release number is represented by the convention x.y.z.
+With such information, the ERD work could take place.
 
 For each user story defined, an ERD card will be prepared containing the description about the proposition and a link to a document including the technical information required to develop the feature. Such Google Doc should contain
 different sections covering the following topics: High Level Architecture, Technology/Frameworks used & versions, Diagrams (sequence, class, ...) supporting the description about the feature.
