@@ -8,11 +8,15 @@ to one or many ERD describing how we will implement the solution.
 
 ## Tools
 
-* [Trello](https://trello.com/b/DI2J0MHN/obsidian) : Coordination and Planification Tool
-* JIRA : Tickets & Scrum Management Tool
+* [Trello](https://trello.com/b/DI2J0MHN/obsidian) : Coordination and Planning Tool
+* [JIRA](https://issues.jboss.org/projects/OBST/summary) : Tickets & Scrum Management Tool
 * [Slack](https://microservicesplatform.slack.com/messages) : IRC channels, notifications platform
 
-To access Slack using an IRC client, this is possible and supported for the IRC + SSL protocol. You can get your user/password at this address : https://microservicesplatform.slack.com/account/gateways
+Remark :
+
+* Slack channels can be accessed using an IRC client with the IRC or XMPP over SSL protocols. You can get your user/password at this address like also more information about
+  how to configure your client : https://microservicesplatform.slack.com/account/gateways
+* A Skype or Blujeans call can be started within a slack channel using /bluejeans [id] or /skype call commands.  
 
 ## Processes
 
