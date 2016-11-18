@@ -1,8 +1,8 @@
-##### Table of Contents  
+# Table of Contents  
 [Introduction](#introduction)  
-[Tools](#tt)  
-[Communication](#tt)
-[Workflows](#tt)  
+[Tools](#tools)  
+[Communication](#communication)
+[Workflows](#workflows)  
 
 <a name="introduction"/>
 # Introduction
@@ -55,6 +55,7 @@ Slack's remarks :
 * [Screenhero](https://screenhero.com/) which is  "collaborative screen sharing app" is integrated too with Slack like github
 * Drop Box & Google Drive documents can be shared directly using Slack.
 
+<a name="comunication"/>
 # Members's communication
 
 This section will detail how to proceed to communicate between the members of the project concerning the topics which are highlighted hereafter:
@@ -150,7 +151,7 @@ Remark :
 - Like the "decisions", they can be defined as Trello cards where the user assigned is mentioned  
 ```
 
-
+<a name="workflows"/>
 # Workflows
 
 To generate a deliverable from a Product Definition which contains user stories, it is important to follow some workflows in order to manage correctly the tasks/actions required as they will
