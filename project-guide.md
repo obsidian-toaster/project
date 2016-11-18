@@ -13,7 +13,8 @@
 # Introduction
 
 This document describes and details :
-- The tools that we will use to communicate together, to manage and organize the non-technical tasks using kanban view with Trello and technical tasks using Jira Scrum View with sprints.
+
+- The tools that we will use to communicate together, to manage and organize the non-technical tasks using [kanban view](https://zapier.com/learn/ultimate-guide-to-project-management/kanban-board/) with Trello and technical tasks using Jira Scrum View with sprints.
 - Procedures and their corresponding workflows to manage the PRD user stories, the ERDs and correlated tasks
 - Principes to adopt to better communicate/discuss together
 
@@ -33,17 +34,17 @@ the scrum methodology the sprints to deliver the Obsidian Deliverables.
 
 You can find more info about how to use Trello as presented by OpenShift Team hereafter
 
-- https://trello.com/b/22FjgidH/how-we-use-trello
-- https://trello.com/c/FmXGaXIj/56-getting-started-how-we-use-trello
+- [how-we-use-trello](https://trello.com/b/22FjgidH/how-we-use-trello)
+- [getting-started-how-we-use-trello](https://trello.com/c/FmXGaXIj/56-getting-started-how-we-use-trello)
 
 The Trello boards will be used to manage the non technical tasks related to a project. The "generator by example" which corresponds to a deliverable of obsidian can be assimilated to a project like vert.x, swarm, EAP, etc.
 The board which is a kanban view will help us to figure out what should be tracked, included into a sprint or not, discussed, reviewed.... It could be possible that some tasks will not been linked to a JIRA or Github issue 
 as they correspond to a request to create a document, contact a group, team, configure a machine, ... or could be used to translate a user story to ERD response which contains sometimes link(s) to jira/bugzilla/...
-(example : https://trello.com/b/wqe9UaaZ/developer-experience)
+(example : [developer-experience](https://trello.com/b/wqe9UaaZ/developer-experience))
 
 ### How to create a card
 
-A trello card can be created directly within an Obsidian board (https://trello.com/b/DI2J0MHN/obsidian, ...) or from GMail. In that case, the following Chrome extension ("https://chrome.google.com/webstore/detail/gmail-to-trello/oceoildfbiaeclndnjknjpfaoofeekgl")
+A trello card can be created directly within an [Obsidian board](https://trello.com/b/DI2J0MHN/obsidian, ...) or from GMail. In that case, the following [gmail-to-trello Chrome extension]("https://chrome.google.com/webstore/detail/gmail-to-trello/oceoildfbiaeclndnjknjpfaoofeekgl")
 should be installed. When you will create a card from an email, you can select the board and the list "New" where the card should be created.
  
 Remark : Please use preferentially the list "New". That will allow the members part of the board to review it during their weekly call as the "new" listed cards will be accepted/refused, assigned to member(s)
@@ -55,10 +56,10 @@ and a due date defined. The due dates will allow the Project/Program Managers, u
 
 Slack's remarks :
 
-* Slack channels can be accessed using an IRC client with the IRC or XMPP over SSL protocols. You can get your user/password at this address like also more information about
-  how to configure your client : https://microservicesplatform.slack.com/account/gateways
+* Slack channels can be accessed using an IRC client with the IRC or XMPP over SSL protocols. You can get your user/password at this address as well as more information about
+  how to configure your client : [Gateways](https://microservicesplatform.slack.com/account/gateways)
 * A Skype or Bluejeans call can be started within a slack channel using /bluejeans [id] or /skype call commands.  
-* [Screenhero](https://screenhero.com/) which is  "collaborative screen sharing app" is integrated too with Slack like github
+* [Screenhero](https://screenhero.com/) which is  "collaborative screen sharing app" is integrated with Slack like github
 * Drop Box & Google Drive documents can be shared directly using Slack.
 
 <a name="communication"/>
@@ -69,7 +70,7 @@ This section will detail how to proceed to communicate between the members of th
 ## Question/Ping me
 
 For simple process where you would like to contact a project's member, question it, please use the slack IRC team (https://microservicesplatform.slack.com/) and its corresponding channel.
-If, by example, you would like to ask a question about the "Generator", then you can use the #generator channel. Here is the list of the channels created and their description:
+If, for example, you would like to ask a question about the "Generator", then you can use the #generator channel. Here is the list of the channels created and their description:
                                                                                                                  
 * 1-Generator : Code generator tool designed using JBoss Forge & JS Front
 * 2-SpringBoot : Spring Boot & JWS
@@ -86,22 +87,21 @@ The channels starting with a difit number corresponds to a deliverable/scrum tea
 
 ## Discussion
 
-When a topic, which have been started as a question or discussion, will require that:
+When a topic, which has been started as a question or discussion, will require that:
 
-- Multiple participants are involved to provide their advise in order to answer to the question,
+- Multiple participants are involved to provide their advise in order to answer the question,
 - Somebody investigates and makes some research,
 - A formal approval is needed
 
 then, it makes more sense in this case to create a Trello card under the list "New" of the corresponding board (generator, vertx, springboot, swarm, ...).
-During the weekly calls, the card will be discussed, reviewed (approved,rejected), assigned to a resource wirh a due date.
+During the weekly calls, the card will be discussed, reviewed (approved,rejected), assigned to a resource with a due date.
 
 As the discussion could become an idea, a new user story or a task to be implemented, acting as such will allow to keep track of the request and potentially include it as a milestone
 to be delivered for a version of Obsidian and manage it within a Jira sprint.
 
 ## Announce
 
-The Obsidian Engineers/PM Mailing List should be used to communicate the agenda, minutes of the bi-weekly meeting, to publish general announces or changes but never to start a discussion
-. This channel could also be used to prepare the sprint or communicate the project milestones. 
+The Obsidian Engineers/PM Mailing List should be used to communicate the agenda, minutes of the bi-weekly meeting, to publish general announces or changes but never to start a discussion. This channel could also be used to prepare the sprint or communicate the project milestones. 
 
 When an email about a meeting is published on the Obsidian Mailing List and that you want to participate or to invite somebody, please use this procedure :
 @AI: I would like to ask you to nominate yourself for the call and forward this email to anyone you know should be aware. We will invite them and add them to the obsidian-pm-list as well.
@@ -109,9 +109,9 @@ When an email about a meeting is published on the Obsidian Mailing List and that
 ## Meeting minutes
 
 When a meeting will take place between Obsidian's members, it could be required that minute meeting document is created. The template to be used to generate the minutes is described hereafter.
-The Obsidian minutes will be stored within the following Google Driver folder : https://drive.google.com/open?id=0B6OzT-mciDmoQ0NkUDUxcmtFSUE
+The Obsidian minutes will be stored within the following Google Driver folder : [minutes](https://drive.google.com/open?id=0B6OzT-mciDmoQ0NkUDUxcmtFSUE)
 
-Remark : An example about such minute is posted here : https://docs.google.com/document/d/1SJJod6qi5i1_w50BwR98H6RIN2X_qK81wf0_ts63wfg
+Remark : An example about such minute is posted here : [Minutes - 14 Sep 2016](https://docs.google.com/document/d/1SJJod6qi5i1_w50BwR98H6RIN2X_qK81wf0_ts63wfg)
 
 ```
 Minutes - [dd MM YYYY]
@@ -210,7 +210,7 @@ Remark : If the content of the list "Complete" becomes too big, then an archived
 ## PRD & User stories
 
 The product document contains a list of user stories which are not categorized but prioritized in a certain way as some user stories are mandatory (= must, will) while others are optional (= should, could).
-Moreover, they are not associated to a specific roadmap release as the process to quantity the workload to develop the user story, to investigate its feasibility & acknowledge it hasn't been yet done.
+Moreover, they are not associated to a specific roadmap release as the process to quantify the workload to develop the user story, to investigate its feasibility & acknowledge it hasn't been yet done.
 
 To deal with this process, the following workflow has been designed using the Trello Board "Obsidian - Product"
   
@@ -258,8 +258,7 @@ With such information, the ERD work could take place.
 For each user story defined, an ERD card will be prepared containing the description about the proposition and a link to a document including the technical information required to develop the feature. Such Google Doc should contain
 different sections covering the following topics: High Level Architecture, Technology/Frameworks used & versions, Diagrams (sequence, class, ...) supporting the description about the feature.
 
-Remark : The rule to be followed when the ERD is developed will be that it should be considered as a unit of work or unit of delivery. If it will require multiple deliveries (documentation, development, ...) then it should be splitted
- in multiple units and referenced as such within the Release list.
+Remark : The rule to be followed when the ERD is developed will be that it should be considered as a unit of work or unit of delivery. If it will require multiple deliveries (documentation, development, ...) then it should be split in multiple units and referenced as such within the Release list.
 
 ## ERD Management & Sprints
 
