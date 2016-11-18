@@ -195,12 +195,12 @@ Remark : If the content of the list "Complete" becomes too big, then an archived
 
 ## PRD & User stories
 
-The product document contains a list of user stories which are non categorized but prioritized in a certain way as some user stories are mandatory (= must, will) while others are optional (= should, could). Moreover, they
-are not associated to a specific roadmap release as the process to quantity the workload to develop the user story, to investigate its feasibility & acknowledge it hasn't been yet done.
+The product document contains a list of user stories which are not categorized but prioritized in a certain way as some user stories are mandatory (= must, will) while others are optional (= should, could).
+Moreover, they are not associated to a specific roadmap release as the process to quantity the workload to develop the user story, to investigate its feasibility & acknowledge it hasn't been yet done.
 
 To deal with this process, the following workflow has been designed using the Trello Board "Obsidian - Product"
   
-**New -> Review -> Accepted OR Refused -> Working-Group Board (optional) -> Release  
+**New -> Review -> Accepted OR Refused -> Working-Group Board (optional) -> Release**  
 
 **New**
 
