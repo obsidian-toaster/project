@@ -18,6 +18,8 @@ To access Slack using an IRC client, this is possible and supported for the IRC 
 
 ### PRD Management
 
+Use cases will move to "New" list -> Review
+
 ### ERD Management
 
 ### Scrum/Sprint
