@@ -5,7 +5,20 @@ This section will detail how to proceed to communicate between the members of th
 ### Question/Ping
 
 For simple process where you would like to contact a project's member, question it, please use the slack IRC team (https://microservicesplatform.slack.com/) and its corresponding channel.
-If, by example, you would like to ask a question about the "Generator", then you can use the #generator channel.
+If, by example, you would like to ask a question about the "Generator", then you can use the #generator channel. Here is the list of the channels created and their description:
+                                                                                                                 
+* 1-Generator : Code generator tool designed using JBoss Forge & JS Front
+* 2-SpringBoot : Spring Boot & JWS
+* 3-vertx : Productization of Vert.x for OpenShift
+* 4-swarm : Productization of WildFly Swarm for OpenShift
+* 5-Documentation: Discuss quickstarts, documentation to be deveoped (dev, installation guides)
+* 6-OpenShift : S2I, CI/CD, Go client, Web Console, Services (metrics, logging)
+* wk-group : Working Group
+* general : General channel to discuss Obsidian related questions/issues
+* projet : Channel to be used by Product Manager, Project Manager and Program Manager. Trello notifications are published here
+* notification : where bot integration will take place (github, ...)
+
+The channels starting with a difit number corresponds to a deliverable/scrum team
 
 ### Discussion
 
