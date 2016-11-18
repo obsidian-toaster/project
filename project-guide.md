@@ -160,12 +160,12 @@ JIRA ticket or even GitHub issue, that some requests will be assigned to groups/
 
 Multiple boards have been created for the Obsidian project and each correspond to a specific deliverable, project to be managed. Here is the list and their description :
 
-[Obsidian](https://trello.com/b/DI2J0MHN/obsidian) : Board used by the Program Manager, Project & Product Manager
-[Obsidian Spring Boot JWS](https://trello.com/b/70ZIY4Va/obsidian-springboot-jws) : Board to discuss SpringBoot & JWS related stuffs
-[Obsidian - Vert.x](https://trello.com/b/n4AHYysk/obsidian-vert-x) : Eclipse Vert.xproductization on OpenShift 
-[Obsidian - Generator](https://trello.com/b/hhWz5leK/obsidian-generator) : Code Generator Tool & Maven Integration
-[Obsidian - WildFly Swarm]() : WildFly Swarm productization on OpenShift 
-[Obsidian - Documentation](https://trello.com/b/2ZsLAdWT/obsidian-documentation) : Developer/Installation guide & Quickstarts
+- [Obsidian](https://trello.com/b/DI2J0MHN/obsidian) : Board used by the Program Manager, Project & Product Manager
+- [Obsidian Spring Boot JWS](https://trello.com/b/70ZIY4Va/obsidian-springboot-jws) : Board to discuss SpringBoot & JWS related stuffs
+- [Obsidian - Vert.x](https://trello.com/b/n4AHYysk/obsidian-vert-x) : Eclipse Vert.xproductization on OpenShift 
+- [Obsidian - Generator](https://trello.com/b/hhWz5leK/obsidian-generator) : Code Generator Tool & Maven Integration
+- [Obsidian - WildFly Swarm]() : WildFly Swarm productization on OpenShift 
+- [Obsidian - Documentation](https://trello.com/b/2ZsLAdWT/obsidian-documentation) : Developer/Installation guide & Quickstarts
 
 These are the expected lists part of each board
 
