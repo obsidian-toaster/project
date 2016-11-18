@@ -5,6 +5,10 @@
 * [Communication](#communication)
 * [Workflows](#workflows)
 
+Authors :
+
+* Charles Moulliard | 18th of November | version .1
+
 <a name="introduction"/>
 # Introduction
 
