@@ -12,11 +12,13 @@ to one or many ERD describing how we will implement the solution.
 * [JIRA](https://issues.jboss.org/projects/OBST/summary) : Tickets & Scrum Management Tool
 * [Slack](https://microservicesplatform.slack.com/messages) : IRC channels, notifications platform
 
-Remark :
+Slack's remarks :
 
 * Slack channels can be accessed using an IRC client with the IRC or XMPP over SSL protocols. You can get your user/password at this address like also more information about
   how to configure your client : https://microservicesplatform.slack.com/account/gateways
-* A Skype or Blujeans call can be started within a slack channel using /bluejeans [id] or /skype call commands.  
+* A Skype or Bluejeans call can be started within a slack channel using /bluejeans [id] or /skype call commands.  
+* [Screenhero](https://screenhero.com/) which is  "collaborative screen sharing app" is integrated too with Slack like github
+* Drop Box & Google Drive documents can be shared directly using Slack.
 
 ## Processes
 
