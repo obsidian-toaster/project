@@ -253,8 +253,8 @@ The process starts when the scrum master with its team will review the ERDs to b
 
 At the end of the sprint effort, then the Scrum master will report to the Product & engineers manager Trello board what it has been able to develop during this period of time.
 
-Then, a discussion will take place to investigate what it will be done according to the release defined. Two cases are possible; the ERDs defined within a specific release have been developed successfully within a sprint and the release
-can move to QE/Prod. The release is partial and then it is required to reassign the ERDs non developed to a subsequent release.
+Then, a discussion will take place to investigate what will be done according to the release defined. Two cases are possibles; the ERDs defined within a specific release have been developed successfully within a sprint and the release
+can move to QE/Prod. The release is incomplete and then it is required to reassign the ERDs non developed to a subsequent release.
 
 [TODO - Describe JIRA Scrum & Sprints]
 
