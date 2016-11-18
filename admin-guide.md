@@ -18,6 +18,7 @@ Starting schema: JBEAP without CDW (all issue types, agile enabled)
 ### Obsidian Eng Mngt
 
 Admins : Jiri Pallich, Bruno Georges & Charles Moulliard
+
 Password : xxxxx
 
 [1]Go to this URL to log into the admin console:
