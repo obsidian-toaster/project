@@ -1,4 +1,4 @@
-# Product Management
+# Project Management
 
 ## Introduction
 

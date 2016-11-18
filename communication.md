@@ -1,6 +1,4 @@
-# Code of conduce
-
-## Communication
+# Communication
 
 This section will detail how to proceed to communicate between the members of the project concerning the topics which are highlighted hereafter:
 
