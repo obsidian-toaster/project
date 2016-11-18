@@ -150,13 +150,16 @@ To generate a deliverable from a Product Definition which contains user stories,
 allow the actors, part of the process, to code, test, document and finally deliver a product which corresponds to the sum of the deliverables defined within the roadmap for a specific version. 
 
 To achieve this goal, multiple actions or tasks will be created and should be managed appropriately. Some, that we will categorize as non-technical, will be managed using the Trello Tool and boards
-while the others will be handled using JIRA and Scrum views. The non-technical tasks corresponds to a request (contact a person, organize a meeting, ...) or an action (configure, a setup a machine, ...).
+while the others will be handled using JIRA and Scrum views.
+
+The non-technical tasks corresponds to a request (contact a person, organize a meeting, ...) or an action (configure, a setup a machine, ...).
 The motivation to use Trello and not JIRA is that several actors prefer to use a more simple/agile tool where an action/task could be created from an email, that some tasks doesn't require to have a corresponding
 JIRA ticket or even GitHub issue, that some requests will be assigned to groups/teams which are using Trello or even Github to handle their tasks, ...
 
 ## Non Technical Request
 
-Multiple boards have been created for the Obsidian project and each correspond to a specific deliverable, project to be managed. Here is the list and their description
+Multiple boards have been created for the Obsidian project and each correspond to a specific deliverable, project to be managed. Here is the list and their description :
+
 [Obsidian](https://trello.com/b/DI2J0MHN/obsidian) : Board used by the Program Manager, Project & Product Manager
 [Obsidian Spring Boot JWS](https://trello.com/b/70ZIY4Va/obsidian-springboot-jws) : Board to discuss SpringBoot & JWS related stuffs
 [Obsidian - Vert.x](https://trello.com/b/n4AHYysk/obsidian-vert-x) : Eclipse Vert.xproductization on OpenShift 
@@ -164,7 +167,7 @@ Multiple boards have been created for the Obsidian project and each correspond t
 [Obsidian - WildFly Swarm]() : WildFly Swarm productization on OpenShift 
 [Obsidian - Documentation](https://trello.com/b/2ZsLAdWT/obsidian-documentation) : Developer/Installation guide & Quickstarts
 
-These are the expected lists part of the board
+These are the expected lists part of each board
 
 **New -> Backlog -> In Progress -> Complete**
 
@@ -172,8 +175,9 @@ There are several things that make a team board "well formed."  It's important t
 
 **New**
 
-The flow is from left to right. Each card starts in New, goes through a grooming process of making sure a card is well formed.  The description should be one line and a comment should exist that describes what the task in more detail - enough detail that a level of effort can be assigned.
-No user member should be assigned to the card, nervetheless the author of the card should include its acronym within the title of the card. If a document exists, include the link of the document within the card created. If a card has a specific due date, you can specify within the description about the card.
+The flow is from left to right. Each card starts in "New", goes through a grooming process of making sure a card is well formed.  The description should be one line and a comment should exist that describes what the task in more detail - enough detail that a level of effort can be assigned.
+
+No user member should be assigned to the card, nevertheless the author of the card should include its acronym within the title of the card. If a document exists, include the link of the document within the card created. If a card has a specific due date, you can specify within the description about the card.
  
 **Backlog**
 
