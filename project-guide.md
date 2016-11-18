@@ -244,14 +244,14 @@ With such information, the ERD work could take place.
 For each user story defined, an ERD card will be prepared containing the description about the proposition and a link to a document including the technical information required to develop the feature. Such Google Doc should contain
 different sections covering the following topics: High Level Architecture, Technology/Frameworks used & versions, Diagrams (sequence, class, ...) supporting the description about the feature.
 
-Remark : The rule to be followed when the ERD is developed will be that it should be considered as a unit of work or unit of delivery. If it will require multiple deliveries (documentation, development, ...) then it shoiuld be splitted
+Remark : The rule to be followed when the ERD is developed will be that it should be considered as a unit of work or unit of delivery. If it will require multiple deliveries (documentation, development, ...) then it should be splitted
  in multiple units and referenced as such within the Release list.
 
 ## ERD Management & Sprints
 
 The process starts when the scrum master with its team will review the ERDs to be developed. They will create the corresponding JIRA tickets, assign them to the resources, calculate the points in order to include them within the sprint which corresponds to a cycle of x weeks that they will have to develop the ERDs selected.
 
-At the end of the spring release, then the Scrum master will report to the Product & engineers manager Trello board what it has been able to develop during this period od time.
+At the end of the sprint effort, then the Scrum master will report to the Product & engineers manager Trello board what it has been able to develop during this period of time.
 
 Then, a discussion will take place to investigate what it will be done according to the release defined. Two cases are possible; the ERDs defined within a specific release have been developed successfully within a sprint and the release
 can move to QE/Prod. The release is partial and then it is required to reassign the ERDs non developed to a subsequent release.
