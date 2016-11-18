@@ -2,7 +2,7 @@
 
 This section will detail how to proceed to communicate between the members of the project concerning the topics which are highlighted hereafter:
 
-### Question/Ping
+## Question/Ping me
 
 For simple process where you would like to contact a project's member, question it, please use the slack IRC team (https://microservicesplatform.slack.com/) and its corresponding channel.
 If, by example, you would like to ask a question about the "Generator", then you can use the #generator channel. Here is the list of the channels created and their description:
@@ -20,65 +20,34 @@ If, by example, you would like to ask a question about the "Generator", then you
 
 The channels starting with a difit number corresponds to a deliverable/scrum team
 
-### Discussion
+## Discussion
 
-When a point, which have been started as a question, will require that:
+When a topic, which have been started as a question or discussion, will require that:
 
-- Multiple participants are involved to provide their advise in order to answer to the question or
-- Somebody investigates and makes some research
+- Multiple participants are involved to provide their advise in order to answer to the question,
+- Somebody investigates and makes some research,
+- A formal approval is needed
 
-then it makes more sense in this case to open a ticket on the github project : https://github.com/obsidian-toaster/platform
+then, it makes more sense in this case to create a Trello card under the list "New" of the corresponding board (generator, vertx, springboot, swarm, ...).
+During the weekly calls, the card will be discussed, reviewed (approved,rejected), assigned to a resource wirh a due date.
 
-As the discussion could become an idea, a new user story or a task to be implemented, acting as such will allow to keep track of the request, assign it to a resource, manage the 
-code changed using a Pull Request and finally adding the change to a milestone and sprint.
+As the discussion could become an idea, a new user story or a task to be implemented, acting as such will allow to keep track of the request and potentially include it as a milestone
+to be delivered for a version of Obsidian and manage it within a Jira sprint.
 
-### Announce
+## Announce
 
 The Obsidian Engineers/PM Mailing List should be used to communicate the agenda, minutes of the bi-weekly meeting, to publish general announces or changes but never to start a discussion
 . This channel could also be used to prepare the sprint or communicate the project milestones. 
 
 When an email about a meeting is published on the Obsidian Mailing List and that you want to participate or to invite somebody, please use this procedure :
 @AI: I would like to ask you to nominate yourself for the call and forward this email to anyone you know should be aware. We will invite them and add them to the obsidian-pm-list as well.
-
-### JIRA
-
-Utility info about the JIRA Obsidian Toaster project
-
-```
-ID: OBST
-Name: Obsidian Toaster
-Lead: Jiri Pallich / jpallich@redhat.com
-Admin: Charles Moulliard / cmoullia@redhat.com , Jay Balunas / jbalunas@redhat.com , Rodney Russ / rruss@redhat.com , Bruno Georges / bgeorges@redhat.com , Jiri Pallich / jpallich@redhat.com
-
-Starting schema: JBEAP without CDW (all issue types, agile enabled)
-```
-
-### Trello
-
-#### Info 
-
-You can find more info about how to use Trello as presented by OpenShift Team
-
-- https://trello.com/b/22FjgidH/how-we-use-trello
-- https://trello.com/c/FmXGaXIj/56-getting-started-how-we-use-trello
-
-The Trello boards will be used to manage the tasks related to a project. The "generator by example" which corresponds to a deliverable of obsidian can be assimilated to a project like vert.x, swarm, EAP, etc.
-The board which is a kanban view will help us to figure out what should be tracked, included into a sprint or not, discussed, reviewed.... It could be possible that some tasks will not been linked to a JIRA or Github issue 
-as they correspond to a request to create a document, contact a group, team, configure a machine, ... or could be used to translate a user story to ERD response which contains sometimes link(s) to jira/bugzilla/...
-(example : https://trello.com/b/wqe9UaaZ/developer-experience)
-
-#### How to create a card
-
-A trello card can be created from GMail at the condition that you have installed the Chrome extension ("https://chrome.google.com/webstore/detail/gmail-to-trello/oceoildfbiaeclndnjknjpfaoofeekgl").
-When you will create from an email a card, you can select the board and the list where the card should be created.
  
-When a Trello card is created, please add it to the list "New" in order to allow the members part of the board to review it.
-When they will run their weekly call, the "new" listed cards will be reviewed, accepted or refused and assigned to member(s) including also the definition of a due date. 
-The dates defined for the cards will allow us using the power-ups "calendar" app to define sprints like also to review the tasks assigned during the weekly call.
- 
-### Meeting minutes
+## Meeting minutes
 
-The template to be used to generate the minutes of a meeting is available hereafter. An example about such minutes is posted here : https://docs.google.com/document/d/1SJJod6qi5i1_w50BwR98H6RIN2X_qK81wf0_ts63wfg
+When a meeting will take place between Obsidian's members, it could be required that minute meeting document is created. The template to be used to generate the minutes is described hereafter.
+The Obsidian minutes will be stored within the following Google Driver folder : https://drive.google.com/open?id=0B6OzT-mciDmoQ0NkUDUxcmtFSUE
+
+Remark : An example about such minute is posted here : https://docs.google.com/document/d/1SJJod6qi5i1_w50BwR98H6RIN2X_qK81wf0_ts63wfg
 
 ```
 Minutes - [dd MM YYYY]

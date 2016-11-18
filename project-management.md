@@ -2,14 +2,43 @@
 
 ## Introduction
 
-This document describes and details how we will manage the development lifecycle about a Product using the Trello and Jira Tools.
-Basically, a product, which is defined as a collection of user stories, will be decomposed into a list of use cases that we will link
-to one or many ERD describing how we will implement the solution.
+This document describes and details the tools that we will use to communicate together, to manage and organize the non-technical tasks using kanban view with Trello and
+technical tasks using Jira Scrum View with sprints.
 
 ## Tools
 
-* [Trello](https://trello.com/b/DI2J0MHN/obsidian) : Coordination and Planning Tool
+The management of the tasks (meeting request, user story discussion, ...) that the Obsidian project will generate will be simplified by adopting the following tools.
+Some will be only used to communicate (IRC), start a call (Bluejeans, Skype), Share a screen or Google Doc documents while others will help to handle the tasks, organize them or plan using 
+the scrum methodology the sprints to deliver the Obsidian Deliverables.
+
+### Task/Issue Management 
+
+* [Trello](https://trello.com/b/DI2J0MHN/obsidian) : Non Technical Tasks & Planning Tool
 * [JIRA](https://issues.jboss.org/projects/OBST/summary) : Tickets & Scrum Management Tool
+
+### How to use Trello 
+
+You can find more info about how to use Trello as presented by OpenShift Team hereafter
+
+- https://trello.com/b/22FjgidH/how-we-use-trello
+- https://trello.com/c/FmXGaXIj/56-getting-started-how-we-use-trello
+
+The Trello boards will be used to manage the non technical tasks related to a project. The "generator by example" which corresponds to a deliverable of obsidian can be assimilated to a project like vert.x, swarm, EAP, etc.
+The board which is a kanban view will help us to figure out what should be tracked, included into a sprint or not, discussed, reviewed.... It could be possible that some tasks will not been linked to a JIRA or Github issue 
+as they correspond to a request to create a document, contact a group, team, configure a machine, ... or could be used to translate a user story to ERD response which contains sometimes link(s) to jira/bugzilla/...
+(example : https://trello.com/b/wqe9UaaZ/developer-experience)
+
+### How to create a card
+
+A trello card can be created from GMail at the condition that you have installed the Chrome extension ("https://chrome.google.com/webstore/detail/gmail-to-trello/oceoildfbiaeclndnjknjpfaoofeekgl").
+When you will create from an email a card, you can select the board and the list where the card should be created.
+ 
+When a Trello card is created, please add it to the list "New" in order to allow the members part of the board to review it.
+When they will run their weekly call, the "new" listed cards will be reviewed, accepted or refused and assigned to member(s) including also the definition of a due date. 
+The dates defined for the cards will allow us using the power-ups "calendar" app to define sprints like also to review the tasks assigned during the weekly call.
+
+### Communication
+
 * [Slack](https://microservicesplatform.slack.com/messages) : IRC channels, notifications platform
 
 Slack's remarks :
