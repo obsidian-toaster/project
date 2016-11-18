@@ -21,18 +21,18 @@ Admins : Jiri Pallich, Bruno Georges & Charles Moulliard
 
 Password : xxxxx
 
-[1]Go to this URL to log into the admin console:
+* Admin console:
 https://post-office.corp.redhat.com/mailman/admin/obsidian-eng-mgt
 
-[2]Provide this URL to users so they can subscribe to your list:
+* URL to users so they can subscribe:
 https://post-office.corp.redhat.com/mailman/listinfo/obsidian-eng-mgt
 
 ### Obsidian PM List
 
 Admins : Jiri Pallich, Anne-Louise Tangring
 
-[1]Go to this URL to log into the admin console:
+* Admin console:
 https://post-office.corp.redhat.com/mailman/admin/obsidian-pm-list
 
-[2]Provide this URL to users so they can subscribe to your list:
+* URL to users so they can subscribe:
 https://post-office.corp.redhat.com/mailman/listinfo/obsidian-pm-list

@@ -30,12 +30,11 @@ as they correspond to a request to create a document, contact a group, team, con
 
 ### How to create a card
 
-A trello card can be created from GMail at the condition that you have installed the Chrome extension ("https://chrome.google.com/webstore/detail/gmail-to-trello/oceoildfbiaeclndnjknjpfaoofeekgl").
-When you will create from an email a card, you can select the board and the list where the card should be created.
+A trello card can be created directly within an Obsidian board (https://trello.com/b/DI2J0MHN/obsidian, ...) or from GMail. In that case, the following Chrome extension ("https://chrome.google.com/webstore/detail/gmail-to-trello/oceoildfbiaeclndnjknjpfaoofeekgl")
+should be installed. When you will create a card from an email, you can select the board and the list "New" where the card should be created.
  
-When a Trello card is created, please add it to the list "New" in order to allow the members part of the board to review it.
-When they will run their weekly call, the "new" listed cards will be reviewed, accepted or refused and assigned to member(s) including also the definition of a due date. 
-The dates defined for the cards will allow us using the power-ups "calendar" app to define sprints like also to review the tasks assigned during the weekly call.
+Remark : Please use preferentially the list "New". That will allow the members part of the board to review it during their weekly call as the "new" listed cards will be accepted/refused, assigned to member(s)
+and a due date defined. The due dates will allow the Project/Program Managers, using the power-ups "calendar" app, to take actions when the due dates are overpassed.
 
 ## Communication Tool
 
@@ -49,7 +48,7 @@ Slack's remarks :
 * [Screenhero](https://screenhero.com/) which is  "collaborative screen sharing app" is integrated too with Slack like github
 * Drop Box & Google Drive documents can be shared directly using Slack.
 
-# Memebers's communication
+# Members's communication
 
 This section will detail how to proceed to communicate between the members of the project concerning the topics which are highlighted hereafter:
 
@@ -144,18 +143,59 @@ Remark :
 - Like the "decisions", they can be defined as Trello cards where the user assigned is mentioned  
 ```
 
+
+# Workflows
+
+To generate a deliverable from a Product Definition which contains user stories, it is important to follow some workflows in order to manage correctly the tasks/actions required as they will
+allow the actors, part of the process, to code, test, document and finally deliver a product which corresponds to the sum of the deliverables defined within the roadmap for a specific version. 
+
+To achieve this goal, multiple actions or tasks will be created and should be managed appropriately. Some, that we will categorize as non-technical, will be managed using the Trello Tool and boards
+while the others will be handled using JIRA and Scrum views. The non-technical tasks corresponds to a request (contact a person, organize a meeting, ...) or an action (configure, a setup a machine, ...).
+The motivation to use Trello and not JIRA is that several actors prefer to use a more simple/agile tool where an action/task could be created from an email, that some tasks doesn't require to have a corresponding
+JIRA ticket or even GitHub issue, that some requests will be assigned to groups/teams which are using Trello or even Github to handle their tasks, ...
+
+## Non Technical Request
+
+Multiple boards have been created for the Obsidian project and each correspond to a specific deliverable, project to be managed. Here is the list and their description
+[Obsidian](https://trello.com/b/DI2J0MHN/obsidian) : Board used by the Program Manager, Project & Product Manager
+[Obsidian Spring Boot JWS](https://trello.com/b/70ZIY4Va/obsidian-springboot-jws) : Board to discuss SpringBoot & JWS related stuffs
+[Obsidian - Vert.x](https://trello.com/b/n4AHYysk/obsidian-vert-x) : Eclipse Vert.xproductization on OpenShift 
+[Obsidian - Generator](https://trello.com/b/hhWz5leK/obsidian-generator) : Code Generator Tool & Maven Integration
+[Obsidian - WildFly Swarm]() : WildFly Swarm productization on OpenShift 
+[Obsidian - Documentation](https://trello.com/b/2ZsLAdWT/obsidian-documentation) : Developer/Installation guide & Quickstarts
+
+These are the expected lists part of the board
+
+**New -> Backlog -> In Progress -> Complete**
+
+There are several things that make a team board "well formed."  It's important to keep them consistent across the teams so that any stakeholder can go to any board and understand how the team is operating and where they are in the process.
+
+**New**
+
+The flow is from left to right. Each card starts in New, goes through a grooming process of making sure a card is well formed.  The description should be one line and a comment should exist that describes what the task in more detail - enough detail that a level of effort can be assigned.
+No user member should be assigned to the card, nervetheless the author of the card should include its acronym within the title of the card. If a document exists, include the link of the document within the card created. If a card has a specific due date, you can specify within the description about the card.
  
+**Backlog**
 
+During the weekly meeting, the team will review the "New" cards and moves cards into the Backlog list, which is in a roughly prioritized order. During the grooming process the card will be assigned to member(s) like a due date.
 
-## Processes
+**InProgress**
+The card is moved to the list "InProgress" when the member assigned will start to work on it.
 
-### PRD Management
+**Complete**
+When a member finishes the item, they will move it to the Complete list.
+
+Remark : If the content of the list "Complete" becomes too big, then an archived list could be created to move the most olders.
+ 
+[TODO - Add definition about the labels]
+
+## PRD & User stories
 
 Use cases will move to "New" list -> Review
 
-### ERD Management
+## ERD Management
 
-### Scrum/Sprint
+## Scrum/Sprint
 
 THIS IS ANOTHER TEST
 
