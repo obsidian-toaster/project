@@ -210,7 +210,7 @@ story can be moved to the next list to start the "Reviewing" process
  
 Remark: 
 
-- We should start the discussion with the "New" list at the condition that we have some user stories covering a MVP
+- We should start the discussion with the "New" list at the condition that we get enough user stories to cover a **MVP**
 - By splitting the content of the PRD documents into a list of MVP user stories, we will simplify the reviewing/questioning & commenting process instead to use one Google document
 
 **Review**
