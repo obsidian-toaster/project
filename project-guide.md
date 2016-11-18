@@ -1,8 +1,8 @@
 # Table of Contents  
-[Introduction](#introduction)  
-[Tools](#tools)  
+[Introduction](#introduction)
+[Tools](#tools)
 [Communication](#communication)
-[Workflows](#workflows)  
+[Workflows](#workflows)
 
 <a name="introduction"/>
 # Introduction
