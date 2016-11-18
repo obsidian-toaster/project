@@ -257,4 +257,5 @@ Then, a discussion will take place to investigate what it will be done according
 can move to QE/Prod. The release is partial and then it is required to reassign the ERDs non developed to a subsequent release.
 
 [TODO - Describe JIRA Scrum & Sprints]
+
 [TODO - Describe How we will work with QE & Prod to involved them within the workflow]
