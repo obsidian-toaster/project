@@ -1,8 +1,9 @@
 # Table of Contents  
-[Introduction](#introduction)
-[Tools](#tools)
-[Communication](#communication)
-[Workflows](#workflows)
+
+* [Introduction](#introduction)
+* [Tools](#tools)
+* [Communication](#communication)
+* [Workflows](#workflows)
 
 <a name="introduction"/>
 # Introduction
@@ -12,6 +13,7 @@ This document describes and details :
 - Procedures and their corresponding workflows to manage the PRD user stories, the ERDs and correlated tasks
 - Principes to adopt to better communicate/discuss together
 
+<a name="tools"/>
 # Tools
 
 The management of the tasks (meeting request, user story discussion, ...) that the Obsidian project will generate will be simplified by adopting the following tools.
@@ -55,7 +57,7 @@ Slack's remarks :
 * [Screenhero](https://screenhero.com/) which is  "collaborative screen sharing app" is integrated too with Slack like github
 * Drop Box & Google Drive documents can be shared directly using Slack.
 
-<a name="comunication"/>
+<a name="communication"/>
 # Members's communication
 
 This section will detail how to proceed to communicate between the members of the project concerning the topics which are highlighted hereafter:
