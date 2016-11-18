@@ -2,7 +2,7 @@
 
 ## Jira
 
-Utility info about the JIRA Obsidian Toaster project
+Utility info about the [JIRA Obsidian Toaster project](https://issues.jboss.org/projects/OBST/)
 
 ```
 ID: OBST
