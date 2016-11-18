@@ -1,13 +1,13 @@
+| Author        | Date           | Version  | Description  |
+| ------------- |:--------------:| --------:| -----------: |
+| Charles Moulliard | 18th of November | version 0.1 | First draft
+
 # Table of Contents  
 
 * [Introduction](#introduction)
 * [Tools](#tools)
 * [Communication](#communication)
 * [Workflows](#workflows)
-
-| Author        | Date           | Version  |
-| ------------- |:--------------:| --------:|
-| Charles Moulliard | 18th of November | version .1 |
 
 <a name="introduction"/>
 # Introduction
