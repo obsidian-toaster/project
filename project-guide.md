@@ -215,8 +215,8 @@ Remark:
 
 **Review**
 
-When a user story is added to the list "Review", then the engineers can start to the process to review the feasibility of the request and if w will accept/refuse it. Ideally this reviewing process shuld be done by the architect
-with the engineers responsible about the technology to be developed. Like with the "New" list, it is still possible during the reviewing step to question/comment the user story and ask additional information from the Product Manager.
+When a user story is added to the list "Review", then the engineers can start the process to review the feasibility of the request and if we will accept/refuse it. Ideally this reviewing process should be done by the architect
+with the engineers responsible about the technology to be developed. As with the "New" list, it is still possible during the reviewing step to question/comment the user story and ask additional information from the Product Manager.
 Finally, they will decide if the user story is accepted or refused. In both cases, it is important to motivate the decision and to inform the Product Manager.
 
 Optionally, the task/Card could be moved 
