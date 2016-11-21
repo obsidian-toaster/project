@@ -83,7 +83,7 @@ If, for example, you would like to ask a question about the "Generator", then yo
 * projet : Channel to be used by Product Manager, Project Manager and Program Manager. Trello notifications are published here
 * notification : where bot integration will take place (github, ...)
 
-The channels starting with a difit number corresponds to a deliverable/scrum team
+Remark : The channels starting with a digit number corresponds to a deliverable/scrum team
 
 ## Discussion
 
